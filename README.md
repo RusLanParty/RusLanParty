@@ -4,9 +4,6 @@ https://github.com/RusLanParty/Project21/
 https://github.com/RusLanParty/PhysicsSandbox/
 ![alt-text](https://github.com/RusLanParty/PhysicsSandbox/blob/main/Demo.gif)
 
-[![Watch the video](https://img.youtube.com/vi/TBFVBVD_Dwc&ab/hqdefault.jpg)](https://www.youtube.com/embed/TBFVBVD_Dwc&ab)
-
-[<img src="https://img.youtube.com/vi/TBFVBVD_Dwc&ab/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/TBFVBVD_Dwc&ab)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TBFVBVD_Dwc?si=K8VAYkEF2ee44EZ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
